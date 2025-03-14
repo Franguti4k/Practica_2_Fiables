@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Alberto/Practica_2_Fiables/Practica_2_Fiables.srcs/sources_1/new/divisor_3.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'divisor_3'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Alberto/Practica_2_Fiables/Practica_2_Fiables.srcs/sources_1/new/tb_divisor_3.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_divisor_3'
